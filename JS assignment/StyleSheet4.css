@@ -1,0 +1,35 @@
+﻿.section6{
+    margin-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: Arial;
+}
+.leftside{
+       width: 50%;
+}
+.textbox{
+    padding: 10px;
+    width: 75%;
+}
+.leftside select{
+    width: 79%;
+    padding: 10px;
+}
+.leftside textarea{
+    width: 78%;
+    height: 100px;
+}
+.leftside button{
+    background-color: lightgreen;
+    color: black;
+    padding: 15px 25px;
+    border: none;
+}
+.leftside button:hover{
+    background-color: red;
+    color: white;
+}
+form{
+    float: left;
+    width: 100%;
+}
